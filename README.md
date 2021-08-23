@@ -1,2 +1,2 @@
 # ThinkMighty
-Site com informações de psicologia
+Psychological Thinking
